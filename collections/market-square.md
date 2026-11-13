@@ -10,6 +10,7 @@ subjects:
   - Retail history
   - Street photography
   - Civic events
+digitisation_package_url: "https://github.com/TKxb123/market-square"
 ---
 
 ## Market Square streetscapes, 1921–1938

@@ -10,7 +10,7 @@ subjects:
   - Estuary engineering
   - River traffic
   - Glass-plate photography
-digitisation_package_url: "https://github.com/iamyosei/tidal-works"
+digitisation_package_url: "https://github.com/TKxb123/tidal-works"
 ---
 
 ## Tidal Works

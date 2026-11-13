@@ -10,6 +10,7 @@ subjects:
   - Housing
   - Public health
   - Tenement survey
+digitisation_package_url: "https://github.com/TKxb123/canning-row"
 ---
 
 ## Canning Row tenement survey, 1902–1929
